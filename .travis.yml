@@ -17,7 +17,7 @@ script:
   - docker-compose -f docker-compose-build.yaml build
   - docker tag udagram-api-feed tressisson/udagram-api-feed:v1
   - docker tag udagram-api-user tressisson/udagram-api-user:v1
-  - docker tag udagram-reverseproxy tressisson/reverseproxy:v1
+  - docker tag reverseproxy tressisson/reverseproxy:v1
   - docker tag udagram-frontend:local tressisson/udagram-frontend:v1
 
 after_success:
