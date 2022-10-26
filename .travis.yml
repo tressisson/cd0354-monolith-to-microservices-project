@@ -9,7 +9,7 @@ services:
 install:
   - echo "nothing"
 
-# Scripts à exécuter en guise de tests
+# Scripts
 before_script:
   - echo "none"
 
