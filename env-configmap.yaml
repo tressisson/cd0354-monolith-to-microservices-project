@@ -4,7 +4,7 @@ metadata:
   name: env-configmap
 data:
   POSTGRES_DATABASE: postgres
-  POSTGRES_HOST: database-1.cvce7ucwx41f.us-east-1.rds.amazonaws.com
+  POSTGRES_HOST: database-1.ckcmtpatnjvr.us-east-2.rds.amazonaws.com
   AWS_REGION: us-east-2
   AWS_PROFILE: udacity
   AWS_S3_BUCKET: arn:aws:s3:::udacityudagramtres
