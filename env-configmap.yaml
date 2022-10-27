@@ -4,9 +4,9 @@ metadata:
   name: env-configmap
 data:
   POSTGRES_DATABASE: postgres
-  POSTGRES_HOST: database-1.ch94tpdtdpr8.us-east-2.rds.amazonaws.com
+  POSTGRES_HOST: database-1.cvce7ucwx41f.us-east-1.rds.amazonaws.com
   AWS_REGION: us-east-2
-  AWS_PROFILE: default
-  AWS_S3_BUCKET: arn:aws:s3:::tresudacitybucket
+  AWS_PROFILE: udacity
+  AWS_S3_BUCKET: arn:aws:s3:::udacityudagramtres
   JWT_SECRET: testing
-  URL: https://D54D6527EB667380E76FCEB8587637B5.gr7.us-east-2.eks.amazonaws.com
+  URL: https://A28F032B9C8222AF16810B69EDDE0215.gr7.us-east-2.eks.amazonaws.com
