@@ -9,4 +9,4 @@ data:
   AWS_PROFILE: default
   AWS_S3_BUCKET: arn:aws:s3:::tresudacitybucket
   JWT_SECRET: testing
-  URL: https://2916855B61936D5997D49A61D942399F.gr7.us-east-2.eks.amazonaws.com
+  URL: https://D54D6527EB667380E76FCEB8587637B5.gr7.us-east-2.eks.amazonaws.com
